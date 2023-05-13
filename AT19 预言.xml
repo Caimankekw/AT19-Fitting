@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+	<fittings>
+		<fitting name="AT19 预言">
+			<description value=""/>
+			<shipType value="预言级"/>
+			<hardware slot="low slot 0" type="损伤控制 II"/>
+			<hardware slot="low slot 3" type="散热槽 II"/>
+			<hardware slot="low slot 4" type="散热槽 II"/>
+			<hardware slot="hi slot 0" type="超级脉冲激光器 II"/>
+			<hardware slot="hi slot 1" type="超级脉冲激光器 II"/>
+			<hardware slot="hi slot 2" type="超级脉冲激光器 II"/>
+			<hardware slot="hi slot 3" type="超级脉冲激光器 II"/>
+			<hardware slot="hi slot 4" type="超级脉冲激光器 II"/>
+			<hardware slot="hi slot 5" type="超级脉冲激光器 II"/>
+			<hardware slot="hi slot 6" type="超级脉冲激光器 II"/>
+			<hardware slot="hi slot 7" type="超级脉冲激光器 II"/>
+			<hardware slot="low slot 5" type="反应式装甲增强器"/>
+			<hardware slot="med slot 1" type="中型F-RX紧凑型电容注电器"/>
+			<hardware slot="med slot 2" type="光学紧凑型索敌计算机"/>
+			<hardware qty="1" slot="cargo" type="埃菲尔公司 神枪手 航迹预算 MR-703"/>
+			<hardware slot="low slot 1" type="多谱式电压薄膜 II"/>
+			<hardware qty="8" slot="cargo" type="爆燃 L"/>
+			<hardware qty="8" slot="cargo" type="灼烧 L"/>
+			<hardware qty="1" slot="cargo" type="载诺 吉普赛 CPU管理学 EE-603"/>
+			<hardware qty="1" slot="cargo" type="天赋植体 枪骑兵 大型能量炮台 LE-1003"/>
+			<hardware qty="1" slot="cargo" type="埃菲尔公司 神枪手 外科打击 SS-903"/>
+			<hardware qty="1" slot="cargo" type="天赋植体 诺贝尔 机械学 MC-803"/>
+			<hardware slot="low slot 2" type="1600mm钢附甲板 II"/>
+			<hardware qty="8" slot="cargo" type="帝国海军多频晶体 L"/>
+			<hardware qty="8" slot="cargo" type="帝国海军伽玛晶体 L"/>
+			<hardware qty="8" slot="cargo" type="帝国海军X射线晶体 L"/>
+			<hardware qty="8" slot="cargo" type="帝国海军紫外晶体 L"/>
+			<hardware qty="8" slot="cargo" type="帝国海军标准晶体 L"/>
+			<hardware qty="8" slot="cargo" type="帝国海军红外晶体 L"/>
+			<hardware qty="8" slot="cargo" type="帝国海军射频晶体 L"/>
+			<hardware qty="500" slot="cargo" type="纳米体修复粘合剂"/>
+			<hardware qty="1" slot="cargo" type="最佳射程提升脚本"/>
+			<hardware qty="1" slot="cargo" type="跟踪速度修正脚本"/>
+			<hardware slot="rig slot 0" type="中型三角装甲聚合器 I"/>
+			<hardware slot="rig slot 1" type="中型辅助电源路由器 I"/>
+			<hardware slot="rig slot 2" type="中型能�
