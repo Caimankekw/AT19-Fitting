@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+	<fittings>
+		<fitting name="AT19 甲抗ECM黑鸟">
+			<description value=""/>
+			<shipType value="黑鸟级"/>
+			<hardware slot="low slot 0" type="损伤控制 II"/>
+			<hardware slot="hi slot 3" type="小型探险者紧凑型掠能器"/>
+			<hardware slot="low slot 1" type="多谱式电压薄膜 II"/>
+			<hardware slot="low slot 2" type="1600mm紧凑型包金钨附甲板"/>
+			<hardware slot="hi slot 0" type="小型掠能器 II"/>
+			<hardware qty="1" slot="cargo" type="载诺 吉普赛 电子战 EW-903"/>
+			<hardware qty="1" slot="cargo" type="埃菲尔公司 游侠 导航学 NN-603"/>
+			<hardware qty="1" slot="cargo" type="埃菲尔公司 游侠 规避机动 EM-703"/>
+			<hardware qty="1" slot="cargo" type="天赋植体 诺贝尔 船体升级 HG-1003"/>
+			<hardware qty="1" slot="cargo" type="天赋植体 诺贝尔 机械学 MC-803"/>
+			<hardware slot="med slot 5" type="许普诺斯视野型磁力ECM"/>
+			<hardware slot="med slot 0" type="衰弱视野型光雷达ECM"/>
+			<hardware slot="med slot 1" type="衰弱视野型光雷达ECM"/>
+			<hardware slot="med slot 3" type="BZ-5视野型引力ECM"/>
+			<hardware slot="med slot 4" type="地蚀视野型雷达ECM"/>
+			<hardware qty="2" slot="drone bay" type="大黄蜂EC-300"/>
+			<hardware slot="hi slot 1" type="无人机链接增效器 II"/>
+			<hardware slot="hi slot 2" type="无人机链接增效器 II"/>
+			<hardware qty="200" slot="cargo" type="纳米体修复粘合剂"/>
+			<hardware slot="rig slot 1" type="中型爆炸装甲强化装置 I"/>
+			<hardware slot="rig slot 0" type="中型离子力场投射器 I"/>
+			<hardware slot="rig slot 2" type="中型粒子散布放大器 I"/>
+			<hardware qty="8" slot="cargo" type="海军电容注电器装料 400"/>
+			<hardware qty="8" slot="cargo" type="海军电容注电器装料 800"/>
+			<hardware slot="med slot 2" type="四联氟化锂抑制型50MN微型跃迁推进器"/>
+		</fitting>
+	</fittings>
