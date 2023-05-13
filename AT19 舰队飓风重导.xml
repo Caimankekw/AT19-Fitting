@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+	<fittings>
+		<fitting name="AT19 舰队飓风重导">
+			<description value=""/>
+			<shipType value="飓风级舰队型"/>
+			<hardware slot="low slot 0" type="损伤控制 II"/>
+			<hardware slot="med slot 3" type="多谱式护盾增强器 II"/>
+			<hardware slot="med slot 4" type="多谱式护盾增强器 II"/>
+			<hardware slot="hi slot 0" type="重型导弹发射器 II"/>
+			<hardware slot="hi slot 1" type="重型导弹发射器 II"/>
+			<hardware slot="hi slot 2" type="重型导弹发射器 II"/>
+			<hardware slot="hi slot 3" type="重型导弹发射器 II"/>
+			<hardware slot="hi slot 4" type="重型导弹发射器 II"/>
+			<hardware slot="hi slot 5" type="重型导弹发射器 II"/>
+			<hardware qty="960" slot="cargo" type="鞭挞愤怒重型导弹"/>
+			<hardware slot="med slot 1" type="大型护盾扩展装置 II"/>
+			<hardware slot="med slot 2" type="大型护盾扩展装置 II"/>
+			<hardware slot="low slot 4" type="紧凑型能源诊断系统 MKI"/>
+			<hardware qty="1" slot="cargo" type="载诺 快照 重型导弹 HM-703"/>
+			<hardware qty="1" slot="cargo" type="载诺 狙击手 目标导航预测 TN-903"/>
+			<hardware qty="1" slot="cargo" type="埃菲尔公司 游侠 加速控制 AC-603"/>
+			<hardware qty="1" slot="cargo" type="护盾指挥思维网络芯片"/>
+			<hardware slot="low slot 1" type="弹道控制系统 II"/>
+			<hardware slot="low slot 2" type="弹道控制系统 II"/>
+			<hardware slot="low slot 3" type="弹道控制系统 II"/>
+			<hardware qty="5" slot="drone bay" type="中型护盾维护机器人 I"/>
+			<hardware qty="960" slot="cargo" type="星爆愤怒重型导弹"/>
+			<hardware qty="960" slot="cargo" type="雷神愤怒重型导弹"/>
+			<hardware qty="960" slot="cargo" type="炼狱愤怒重型导弹"/>
+			<hardware qty="1" slot="cargo" type="载诺 狙击手 导弹精确打击 GP-803"/>
+			<hardware qty="1200" slot="cargo" type="加达里海军雷神重型导弹"/>
+			<hardware qty="960" slot="cargo" type="加达里海军鞭挞重型导弹"/>
+			<hardware qty="960" slot="cargo" type="加达里海军炼狱重型导弹"/>
+			<hardware qty="960" slot="cargo" type="加达里海军星爆重型导弹"/>
+			<hardware qty="500" slot="cargo" type="纳米体修复粘合剂"/>
+			<hardware slot="rig slot 1" type="中型核心防御力场扩张装置 I"/>
+			<hardware slot="rig slot 2" type="中型核心防御力场扩张装置 I"/>
+			<hardware slot="med slot 0" type="四联氟化锂抑制型50MN微型跃迁推进器"/>
+			<hardware qty="300" slot="cargo" type="主动护盾防御弹药"/>
+			<hardware qty="300" slot="cargo" type="护盾协调弹药"/>
+			<hardware qty="300" slot="cargo" type="护盾扩展弹药"/>
+			<hardware slot="hi slot 6" type="护盾指挥脉冲波 II"/>
+			<hardware slot="hi slot 7" type="护盾指挥脉冲波 II"/>
+			<hardware slot="rig slot 0" type="中型指挥处理器 I"/>
+		</fitting>
+	</fittings>
