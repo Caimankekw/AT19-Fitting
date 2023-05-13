@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+	<fittings>
+		<fitting name="AT19 破天扰频">
+			<description value=""/>
+			<shipType value="破天级"/>
+			<hardware slot="med slot 3" type="跃迁扰频器 II"/>
+			<hardware slot="low slot 0" type="损伤控制 II"/>
+			<hardware slot="med slot 1" type="中型护盾扩展装置 II"/>
+			<hardware slot="med slot 2" type="中型护盾扩展装置 II"/>
+			<hardware slot="low slot 1" type="微型辅助能源核心 II"/>
+			<hardware slot="low slot 2" type="微型辅助能源核心 II"/>
+			<hardware slot="med slot 0" type="Y-T8紧凑型5MN微型跃迁推进器"/>
+			<hardware qty="1" slot="cargo" type="载诺 侏儒 护盾管理 SM-703"/>
+			<hardware qty="1" slot="cargo" type="天赋植体 诺贝尔 船体升级 HG-1003"/>
+			<hardware qty="1" slot="cargo" type="天赋植体 随从 能量栅格管理 EG-603"/>
+			<hardware qty="300" slot="cargo" type="纳米体修复粘合剂"/>
+			<hardware slot="rig slot 0" type="小型核心防御力场扩张装置 I"/>
+			<hardware slot="rig slot 1" type="小型核心防御力场扩张装置 I"/>
+			<hardware slot="rig slot 2" type="小型核心防御力场扩张装置 I"/>
+			<hardware qty="3" slot="cargo" type="海军电容注电器装料 400"/>
+			<hardware qty="4" slot="cargo" type="海军电容注电器装料 800"/>
+			<hardware qty="1" slot="cargo" type="审查'享乐'缠绕优化器WS-803"/>
+			<hardware slot="hi slot 0" type="小型电弧弦投射器 II"/>
+			<hardware qty="1000" slot="cargo" type="加瓦波电容包 S"/>
+			<hardware qty="1000" slot="cargo" type="梅斯流电容包 S"/>
+			<hardware qty="1000" slot="cargo" type="爆发电容包 S"/>
+			<hardware qty="1000" slot="cargo" type="瞬闪电容包 S"/>
+			<hardware qty="920" slot="cargo" type="超级狙击 S"/>
+			<hardware qty="1000" slot="cargo" type="超级电击 S"/>
+		</fitting>
+	</fittings>
