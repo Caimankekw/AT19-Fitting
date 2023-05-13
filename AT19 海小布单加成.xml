@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+	<fittings>
+		<fitting name="AT19 海小布单加成">
+			<description value=""/>
+			<shipType value="布鲁提克斯级海军型"/>
+			<hardware slot="low slot 0" type="损伤控制 II"/>
+			<hardware slot="hi slot 0" type="250mm磁轨炮 II"/>
+			<hardware slot="hi slot 1" type="250mm磁轨炮 II"/>
+			<hardware slot="hi slot 2" type="250mm磁轨炮 II"/>
+			<hardware slot="hi slot 3" type="250mm磁轨炮 II"/>
+			<hardware slot="hi slot 4" type="250mm磁轨炮 II"/>
+			<hardware slot="hi slot 5" type="250mm磁轨炮 II"/>
+			<hardware slot="med slot 3" type="小型电容注电器 II"/>
+			<hardware slot="low slot 6" type="反应式装甲增强器"/>
+			<hardware slot="low slot 2" type="磁性力场稳定器 II"/>
+			<hardware slot="low slot 3" type="磁性力场稳定器 II"/>
+			<hardware slot="low slot 1" type="800mm紧凑型包金钨附甲板"/>
+			<hardware slot="low slot 5" type="动能装甲增强器 II"/>
+			<hardware slot="low slot 4" type="爆炸装甲增强器 II"/>
+			<hardware qty="480" slot="cargo" type="标枪 M"/>
+			<hardware qty="480" slot="cargo" type="钉刺 M"/>
+			<hardware qty="1" slot="cargo" type="装甲指挥思维网络芯片"/>
+			<hardware qty="1" slot="cargo" type="载诺 狙击手 中型混合炮台 MH-803"/>
+			<hardware qty="1" slot="cargo" type="埃菲尔公司 神枪手 外科打击 SS-903"/>
+			<hardware qty="1" slot="cargo" type="载诺 狙击手 弹道分析 TA-703"/>
+			<hardware qty="1" slot="cargo" type="天赋植体 随从 能量栅格管理 EG-603"/>
+			<hardware slot="med slot 1" type="目标标记装置 II"/>
+			<hardware slot="med slot 2" type="目标标记装置 II"/>
+			<hardware qty="1200" slot="cargo" type="加达里海军反物质轨道弹 M"/>
+			<hardware qty="480" slot="cargo" type="加达里海军锰质轨道弹 M"/>
+			<hardware qty="480" slot="cargo" type="加达里海军钼质轨道弹 M"/>
+			<hardware qty="600" slot="cargo" type="加达里海军钍质轨道弹 M"/>
+			<hardware qty="480" slot="cargo" type="加达里海军铅质轨道弹 M"/>
+			<hardware qty="480" slot="cargo" type="加达里海军铱质轨道弹 M"/>
+			<hardware qty="480" slot="cargo" type="加达里海军铁质轨道弹 M"/>
+			<hardware qty="5" slot="drone bay" type="中型装甲维护机器人 I"/>
+			<hardware qty="500" slot="cargo" type="纳米体修复粘合剂"/>
+			<hardware qty="2" slot="cargo" type="跟踪速度修正脚本"/>
+			<hardware slot="rig slot 0" type="中型三角装甲聚合器 I"/>
+			<hardware slot="rig slot 1" type="中型三角装甲聚合器 I"/>
+			<hardware slot="rig slot 2" type="中型三角装甲聚合器 I"/>
+			<hardware qty="2" slot="drone bay" type="帝国海军侍僧"/>
+			<hardware qty="1" slot="drone bay" type="加达里海军大黄蜂"/>
+			<hardware qty="2" slot="drone bay" type="共和舰队武士"/>
+			<hardware qty="26" slot="cargo" type="海军电容注电器装料 400"/>
+			<hardware slot="med slot 0" type="四联氟化锂抑制型50MN微型跃迁推进器"/>
+			<hardware qty="300" slot="cargo" type="装甲电压强化弹药"/>
+			<hardware qty="300" slot="cargo" type="快速修理弹药"/>
+			<hardware qty="300" slot="cargo" type="装甲强化弹药"/>
+			<hardware slot="hi slot 6" type="装甲指挥脉冲波 II"/>
+		</fitting>
+	</fittings>
