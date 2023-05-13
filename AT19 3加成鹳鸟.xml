@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+	<fittings>
+		<fitting name="AT19 3加成灌鸟">
+			<description value=""/>
+			<shipType value="鹳鸟级"/>
+			<hardware slot="rig slot 1" type="小型指挥处理器 I"/>
+			<hardware slot="rig slot 0" type="小型指挥处理器 I"/>
+			<hardware slot="hi slot 5" type="小型探险者紧凑型掠能器"/>
+			<hardware slot="hi slot 4" type="游击战指挥脉冲波 II"/>
+			<hardware slot="hi slot 3" type="护盾指挥脉冲波 II"/>
+			<hardware slot="hi slot 2" type="护盾指挥脉冲波 II"/>
+			<hardware slot="hi slot 1" type="护盾指挥脉冲波 II"/>
+			<hardware slot="hi slot 0" type="信息战指挥脉冲波 II"/>
+			<hardware slot="med slot 5" type="目标标记装置 II"/>
+			<hardware slot="med slot 4" type="电磁护盾增效器 II"/>
+			<hardware slot="med slot 3" type="中型护盾扩展装置 II"/>
+			<hardware slot="med slot 2" type="停滞缠绕光束 II"/>
+			<hardware slot="med slot 1" type="四联氟化锂抑制型5MN微型跃迁推进器"/>
+			<hardware slot="med slot 0" type="多谱式护盾增强器 II"/>
+			<hardware slot="low slot 1" type="协处理器 II"/>
+			<hardware slot="low slot 0" type="损伤控制 II"/>
+			<hardware qty="1" slot="cargo" type="载诺 侏儒 护盾管理 SM-703"/>
+			<hardware qty="1" slot="cargo" type="载诺 吉普赛 CPU管理学 EE-603"/>
+			<hardware qty="500" slot="cargo" type="纳米体修复粘合剂"/>
+			<hardware qty="12" slot="cargo" type="海军电容注电器装料 400"/>
+			<hardware qty="12" slot="cargo" type="海军电容注电器装料 800"/>
+			<hardware qty="1" slot="cargo" type="共和舰队指挥思维网络芯片"/>
+			<hardware qty="300" slot="cargo" type="主动护盾防御弹药"/>
+			<hardware qty="300" slot="cargo" type="护盾协调弹药"/>
+			<hardware qty="300" slot="cargo" type="护盾扩展弹药"/>
+			<hardware qty="100" slot="cargo" type="感应器优化弹药"/>
+			<hardware qty="100" slot="cargo" type="电子优势弹药"/>
+			<hardware qty="100" slot="cargo" type="电子增强弹药"/>
+			<hardware qty="100" slot="cargo" type="机动规避弹药"/>
+			<hardware qty="100" slot="cargo" type="拦截机动弹药"/>
+			<hardware qty="100" slot="cargo" type="快速部署弹药"/>
+			<hardware qty="1" slot="cargo" type="审查'爱神'停滞缠绕光束MR-803"/>
+		</fitting>
+	</fittings>
