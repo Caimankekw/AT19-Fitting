@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+	<fittings>
+		<fitting name="AT19 奥格诺">
+			<description value=""/>
+			<shipType value="奥格诺级"/>
+			<hardware slot="low slot 0" type="损伤控制 II"/>
+			<hardware slot="med slot 1" type="小型电容注电器 II"/>
+			<hardware slot="med slot 2" type="小型电容注电器 II"/>
+			<hardware slot="low slot 1" type="多谱式电压薄膜 II"/>
+			<hardware slot="low slot 4" type="1600mm抑制型碳化晶体附甲板"/>
+			<hardware slot="low slot 2" type="动能装甲增强器 II"/>
+			<hardware slot="low slot 3" type="爆炸装甲增强器 II"/>
+			<hardware qty="1" slot="cargo" type="埃菲尔公司 游侠 导航学 NN-603"/>
+			<hardware qty="1" slot="cargo" type="天赋植体 诺贝尔 船体升级 HG-1003"/>
+			<hardware qty="1" slot="cargo" type="天赋植体 诺贝尔 机械学 MC-803"/>
+			<hardware slot="hi slot 4" type="中型共轴紧凑型远程装甲维修器"/>
+			<hardware qty="1" slot="cargo" type="天赋植体 诺贝尔 远距装甲维修系统 RA-703"/>
+			<hardware qty="4" slot="drone bay" type="轻型装甲维护机器人 I"/>
+			<hardware slot="hi slot 0" type="小型远程装甲维修器 II"/>
+			<hardware slot="hi slot 1" type="小型远程装甲维修器 II"/>
+			<hardware slot="hi slot 2" type="小型远程装甲维修器 II"/>
+			<hardware slot="hi slot 3" type="小型远程装甲维修器 II"/>
+			<hardware qty="400" slot="cargo" type="纳米体修复粘合剂"/>
+			<hardware slot="rig slot 2" type="中型热能装甲强化装置 I"/>
+			<hardware slot="rig slot 0" type="中型三角装甲聚合器 I"/>
+			<hardware slot="rig slot 1" type="中型三角装甲聚合器 I"/>
+			<hardware qty="40" slot="cargo" type="海军电容注电器装料 400"/>
+			<hardware slot="med slot 0" type="四联氟化锂抑制型50MN微型跃迁推进器"/>
+			<hardware qty="1" slot="cargo" type="'集市'弗拉基米尔'维修无人机操控 DR-903"/>
+		</fitting>
+	</fittings>
