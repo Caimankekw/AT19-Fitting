@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<fittings count="1">
+	<fitting name="AT19">
+		<description value=""/>
+		<shipType value="奥格诺级"/>
+		<hardware slot="low slot 0" type="损伤控制 II"/>
+		<hardware slot="low slot 1" type="紧凑型多谱式电压薄膜"/>
+		<hardware slot="low slot 2" type="反应式装甲增强器"/>
+		<hardware slot="low slot 3" type="800mm钢附甲板 II"/>
+		<hardware slot="low slot 4" type="爆炸装甲增强器 II"/>
+		<hardware slot="med slot 0" type="10MN加力燃烧器 II"/>
+		<hardware slot="med slot 1" type="四联氟化锂抑制型50MN微型跃迁推进器"/>
+		<hardware slot="med slot 2" type="中型F-RX紧凑型电容注电器"/>
+		<hardware slot="hi slot 0" type="中型远程装甲维修器 II"/>
+		<hardware slot="hi slot 1" type="中型远程装甲维修器 II"/>
+		<hardware slot="hi slot 2" type="中型远程装甲维修器 II"/>
+		<hardware slot="hi slot 3" type="小型远程电容传输装置 II"/>
+		<hardware slot="hi slot 4" type="小型远程装甲维修器 II"/>
+		<hardware slot="rig slot 0" type="中型辅助电源路由器 I"/>
+		<hardware slot="rig slot 1" type="中型辅助电源路由器 I"/>
+		<hardware slot="rig slot 2" type="中型三角装甲聚合器 I"/>
+		<hardware qty="4" slot="drone bay" type="轻型装甲维护机器人 I"/>
+		<hardware qty="300" slot="cargo" type="纳米体修复粘合剂"/>
+		<hardware qty="15" slot="cargo" type="海军电容注电器装料 800"/>
+		<hardware qty="1" slot="cargo" type="载诺 吉普赛 CPU管理学 EE-603"/>
+		<hardware qty="1" slot="cargo" type="天赋植体 诺贝尔 远距装甲维修系统 RA-703"/>
+		<hardware qty="1" slot="cargo" type="天赋植体 随从 电容管理 EM-803"/>
+		<hardware qty="1" slot="cargo" type="天赋植体 诺贝尔 船体升级 HG-1003"/>
+	</fitting>
+</fittings>

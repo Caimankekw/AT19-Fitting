@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<fittings count="1">
+	<fitting name="AT19">
+		<description value=""/>
+		<shipType value="救赎级"/>
+		<hardware slot="low slot 0" type="损伤控制 II"/>
+		<hardware slot="low slot 1" type="多谱式涂层 II"/>
+		<hardware slot="low slot 2" type="800mm钢附甲板 II"/>
+		<hardware slot="low slot 3" type="散热槽 II"/>
+		<hardware slot="low slot 4" type="散热槽 II"/>
+		<hardware slot="low slot 5" type="散热槽 II"/>
+		<hardware slot="low slot 6" type="反应式装甲增强器"/>
+		<hardware slot="med slot 0" type="Y-T8紧凑型50MN微型跃迁推进器"/>
+		<hardware slot="med slot 1" type="中型电容注电器 II"/>
+		<hardware slot="med slot 2" type="目标标记装置 II"/>
+		<hardware slot="hi slot 0" type="重型集束激光器 II"/>
+		<hardware slot="hi slot 1" type="重型集束激光器 II"/>
+		<hardware slot="hi slot 2" type="装甲指挥脉冲波 II"/>
+		<hardware slot="hi slot 3" type="重型集束激光器 II"/>
+		<hardware slot="hi slot 4" type="装甲指挥脉冲波 II"/>
+		<hardware slot="hi slot 5" type="重型集束激光器 II"/>
+		<hardware slot="hi slot 6" type="重型集束激光器 II"/>
+		<hardware slot="rig slot 0" type="中型能量武器轨迹校准设备 I"/>
+		<hardware slot="rig slot 1" type="中型能量武器轨迹校准设备 I"/>
+		<hardware qty="5" slot="drone bay" type="轻型装甲维护机器人 I"/>
+		<hardware qty="5" slot="cargo" type="帝国海军微波晶体 M"/>
+		<hardware qty="5" slot="cargo" type="极光 M"/>
+		<hardware qty="30" slot="cargo" type="装甲电压强化弹药"/>
+		<hardware qty="5" slot="cargo" type="帝国海军X射线晶体 M"/>
+		<hardware qty="5" slot="cargo" type="微光 M"/>
+		<hardware qty="21" slot="cargo" type="海军电容注电器装料 400"/>
+		<hardware qty="300" slot="cargo" type="纳米体修复粘合剂"/>
+		<hardware qty="5" slot="cargo" type="帝国海军标准晶体 M"/>
+		<hardware qty="5" slot="cargo" type="帝国海军射频晶体 M"/>
+		<hardware qty="30" slot="cargo" type="快速修理弹药"/>
+		<hardware qty="1" slot="cargo" type="天赋植体 随从 能量栅格管理 EG-603"/>
+		<hardware qty="1" slot="cargo" type="埃菲尔公司 神枪手 航迹预算 MR-703"/>
+		<hardware qty="1" slot="cargo" type="天赋植体 枪骑兵 中型能量炮台 ME-803"/>
+		<hardware qty="1" slot="cargo" type="天赋植体 枪骑兵 射击学 RF-903"/>
+		<hardware qty="30" slot="cargo" type="装甲强化弹药"/>
+		<hardware qty="5" slot="cargo" type="帝国海军多频晶体 M"/>
+		<hardware qty="1" slot="cargo" type="装甲指挥思维网络芯片"/>
+	</fitting>
+</fittings>
