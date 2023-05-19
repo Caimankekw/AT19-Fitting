@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+	<fittings>
+		<fitting name="AT19 忏悔">
+			<description value=""/>
+			<shipType value="忏悔者级"/>
+			<hardware slot="med slot 0" type="跃迁扰频器 II"/>
+			<hardware slot="low slot 3" type="多谱式涂层 II"/>
+			<hardware slot="low slot 0" type="损伤控制 II"/>
+			<hardware slot="hi slot 0" type="加特林脉冲激光器 II"/>
+			<hardware slot="hi slot 1" type="加特林脉冲激光器 II"/>
+			<hardware slot="hi slot 2" type="加特林脉冲激光器 II"/>
+			<hardware slot="hi slot 3" type="加特林脉冲激光器 II"/>
+			<hardware slot="med slot 1" type="骤停紧凑型停滞缠绕光束"/>
+			<hardware slot="hi slot 4" type="小型探险者紧凑型掠能器"/>
+			<hardware qty="1" slot="cargo" type="埃菲尔公司 神枪手 航迹预算 MR-703"/>
+			<hardware slot="low slot 4" type="热能电压薄膜 II"/>
+			<hardware slot="low slot 1" type="多谱式电压薄膜 II"/>
+			<hardware slot="low slot 2" type="400mm抑制型碳化晶体附甲板"/>
+			<hardware qty="4" slot="cargo" type="灼烧 S"/>
+			<hardware qty="4" slot="cargo" type="爆燃 S"/>
+			<hardware qty="1" slot="cargo" type="埃菲尔公司 神枪手 外科打击 SS-903"/>
+			<hardware qty="1" slot="cargo" type="天赋植体 诺贝尔 船体升级 HG-1003"/>
+			<hardware qty="1" slot="cargo" type="天赋植体 随从 能量栅格管理 EG-603"/>
+			<hardware qty="4" slot="cargo" type="帝国海军多频晶体 S"/>
+			<hardware qty="4" slot="cargo" type="帝国海军射频晶体 S"/>
+			<hardware qty="500" slot="cargo" type="纳米体修复粘合剂"/>
+			<hardware slot="rig slot 0" type="小型三角装甲聚合器 I"/>
+			<hardware slot="rig slot 1" type="小型三角装甲聚合器 I"/>
+			<hardware slot="rig slot 2" type="小型三角装甲聚合器 I"/>
+			<hardware qty="11" slot="cargo" type="海军电容注电器装料 400"/>
+			<hardware qty="10" slot="cargo" type="海军电容注电器装料 800"/>
+			<hardware slot="med slot 2" type="四联氟化锂抑制型5MN微型跃迁推进器"/>
+			<hardware qty="1" slot="cargo" type="审查'享乐'缠绕优化器WS-803"/>
+		</fitting>
+	</fittings>
