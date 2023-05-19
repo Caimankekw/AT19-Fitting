@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+	<fittings>
+		<fitting name="AT19 ASS超大注">
+			<description value=""/>
+			<shipType value="奥苏斯级"/>
+			<hardware slot="hi slot 0" type="轻型快速导弹发射器 II"/>
+			<hardware slot="hi slot 1" type="轻型快速导弹发射器 II"/>
+			<hardware slot="hi slot 2" type="轻型快速导弹发射器 II"/>
+			<hardware slot="hi slot 3" type="轻型快速导弹发射器 II"/>
+			<hardware slot="hi slot 4" type="轻型快速导弹发射器 II"/>
+			<hardware qty="500" slot="cargo" type="雷神愤怒轻型导弹"/>
+			<hardware slot="rig slot 1" type="中型处理器超频组件 I"/>
+			<hardware slot="low slot 0" type="IFFA紧凑型损伤控制"/>
+			<hardware slot="med slot 1" type="大型F-S9覆盖式紧凑型护盾扩展装置"/>
+			<hardware slot="med slot 4" type="紧凑型电磁护盾增效器"/>
+			<hardware slot="med slot 3" type="紧凑型多谱式护盾增强器"/>
+			<hardware qty="1" slot="cargo" type="载诺 吉普赛 CPU管理学 EE-603"/>
+			<hardware qty="1" slot="cargo" type="载诺 狙击手 导弹动力 MP-703"/>
+			<hardware qty="1" slot="cargo" type="载诺 狙击手 导弹发射效率 RL-1003"/>
+			<hardware slot="low slot 1" type="弹道控制系统 II"/>
+			<hardware slot="low slot 2" type="弹道控制系统 II"/>
+			<hardware slot="low slot 3" type="弹道控制系统 II"/>
+			<hardware qty="5" slot="drone bay" type="轻型护盾维护机器人 I"/>
+			<hardware qty="500" slot="cargo" type="鞭挞愤怒轻型导弹"/>
+			<hardware qty="500" slot="cargo" type="星爆愤怒轻型导弹"/>
+			<hardware qty="500" slot="cargo" type="炼狱愤怒轻型导弹"/>
+			<hardware qty="1" slot="cargo" type="载诺 狙击手 导弹精确打击 GP-803"/>
+			<hardware qty="1" slot="cargo" type="载诺 快照 轻型导弹 LM-903"/>
+			<hardware qty="500" slot="cargo" type="加达里海军鞭挞轻型导弹"/>
+			<hardware qty="500" slot="cargo" type="加达里海军炼狱轻型导弹"/>
+			<hardware qty="500" slot="cargo" type="加达里海军星爆轻型导弹"/>
+			<hardware qty="640" slot="cargo" type="加达里海军雷神轻型导弹"/>
+			<hardware qty="500" slot="cargo" type="纳米体修复粘合剂"/>
+			<hardware slot="rig slot 0" type="中型辅助电源路由器 I"/>
+			<hardware slot="rig slot 2" type="中型热能护盾强化装置 I"/>
+			<hardware qty="27" slot="cargo" type="海军电容注电器装料 400"/>
+			<hardware slot="hi slot 5" type="民用轻型导弹发射器"/>
+			<hardware slot="med slot 2" type="超大型辅助护盾回充增量器"/>
+			<hardware slot="med slot 0" type="Y-T8紧凑型50MN微型跃迁推进器"/>
+		</fitting>
+	</fittings>
